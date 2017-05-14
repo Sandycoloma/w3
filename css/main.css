@@ -1,0 +1,67 @@
+
+body {   
+    padding-top: 60px;
+}
+nav.navbar{
+	position: fixed;
+	display: inline block;
+	text-align: left;
+	background-color: pink;
+	height: 60px;
+	left: 0;
+	right: 0;
+	top: 0;
+
+}
+
+nav li{
+	display: inline;
+	text-align: center;
+
+
+
+}
+a{
+	text-decoration: none;
+	color: black;
+	padding: 0 50px;
+
+}
+a:hover {
+	background-color: yellow;
+	
+}
+
+section div{
+	display: inline;
+}
+
+
+
+.button1 button {
+	border-radius: 2px;
+	background-color: green;
+	color: black;
+}
+.button2 button{
+	border-radius: 12px;
+	background-color: blue;
+	color: black;
+}
+
+.button3 button {
+	border-radius: 50%;
+	background-color: yellow; 
+	color: black;
+}
+
+button:hover {
+	background-color: gray;
+
+}
+
+button{
+	padding: 60px;
+	font-size: 40px;
+
+}
